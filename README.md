@@ -1,5 +1,4 @@
-![Header](./![github-header-image](https://github.com/Karthikeya-Konathala/Karthikeya-Konathala/assets/100104826/7df753a1-80a7-4f44-a12b-501b1494f9cd)
-
+(./![github-header-image](https://github.com/Karthikeya-Konathala/Karthikeya-Konathala/assets/100104826/7df753a1-80a7-4f44-a12b-501b1494f9cd)
 <h1 align="center">Hi 👋, I'm KARTHIKEYA KONATHALA</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
